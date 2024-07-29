@@ -2,4 +2,4 @@
 
 (local opt vim.o)
 
-(set opt.cursorlineopt :both)	
+(set opt.cursorlineopt :both)  	
