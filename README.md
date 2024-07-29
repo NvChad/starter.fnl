@@ -8,7 +8,7 @@ To install, simply run
 
 ```bash
 rm -rf ~/.local/share/nvim
-git clone https://github.com/foldcat/FnlChad ~/.config/nvim && nvim
+git clone https://github.com/nvchad/starter.fnl ~/.config/nvim && nvim
 ```
 
 Run `:MasonInstallAll` command after lazy.nvim finishes 
