@@ -1,1 +1,1 @@
-{:ui {:theme :oxocarbon}}
+{:base46 {:theme :oxocarbon}}
