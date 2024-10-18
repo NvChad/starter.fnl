@@ -8,11 +8,6 @@
               (cfg.defaults)
               (require :configs.lspconfig))}
 
- {1 :williamboman/mason.nvim
-    :opts 
-    {:ensure_installed
-     [:lua-language-server :stylua :html-lsp :fennel-language-server]}}
-
  {1 :nvim-treesitter/nvim-treesitter
     :opts 
     {:ensure_installed 
