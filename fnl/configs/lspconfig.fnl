@@ -1,5 +1,7 @@
 (local nvcfg (require :nvchad.configs.lspconfig))
 
+(nvcfg.defaults)
+
 (local lspconfig (require :lspconfig))
 (local servers [:html])
 
