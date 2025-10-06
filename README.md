@@ -36,9 +36,8 @@ to trust it, say yes
 to convert existing lua code to fennel
 - fnlchad does not impose a performance lose as it compiles fennel 
 directly to lua after saving any fennel files in this config
-- due to the above reason, you must also manually remove the orphaned
-`.lua` file in `/lua` directory after removing `.fnl` files from `/fnl`
-- for an example config, see [this](https://git.sr.ht/~koyuki/nvchad2.5)
+- after deleting or renaming files, execute `:NfnlFindOrphans`, review 
+and execute `:NfnlDeleteOrphans` to remove orphans.
 
 ### Credits
 
