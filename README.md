@@ -20,8 +20,6 @@ installation:
 ```
 .git/
 .gitignore
-UNLICENSE
-README.md
 ```
 
 Check out `fnl/plugins/init.fnl` for plugins to make the lisp
