@@ -1,10 +1,8 @@
--- [nfnl] Compiled from fnl/plugins/init.fnl by https://github.com/Olical/nfnl, do not edit.
+-- [nfnl] fnl/plugins/init.fnl
 local function _1_()
   return require("configs.conform")
 end
 local function _2_()
-  local cfg = require("nvchad.configs.lspconfig")
-  cfg.defaults()
   return require("configs.lspconfig")
 end
 local function _3_(_, opts)

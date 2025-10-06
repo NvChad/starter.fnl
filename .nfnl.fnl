@@ -1,1 +1,1 @@
-{:source-file-patterns ["fnl/**/*.fnl"]}
+{:source-file-patterns ["fnl/**/*.fnl" "fnl/*.fnl"]}

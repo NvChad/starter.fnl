@@ -1,4 +1,4 @@
--- [nfnl] Compiled from fnl/options.fnl by https://github.com/Olical/nfnl, do not edit.
+-- [nfnl] fnl/options.fnl
 require("nvchad.options")
 local opt = vim.o
 opt.cursorlineopt = "both"

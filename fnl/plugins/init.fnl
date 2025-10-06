@@ -4,8 +4,6 @@
 
  {1 :neovim/nvim-lspconfig
     :config (fn []
-              (local cfg (require :nvchad.configs.lspconfig))
-              (cfg.defaults)
               (require :configs.lspconfig))}
 
  {1 :nvim-treesitter/nvim-treesitter
